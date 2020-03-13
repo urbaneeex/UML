@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 enum Genero {
-    DRAMA, COMEDIA, ACCTION, TERROR, ROMANCE, AVENTURA, SCI-FI
+    DRAMA, COMEDIA, ACCTION, TERROR, ROMANCE, AVENTURA, SCI_FI
 }
 
 public class Pelicula {
