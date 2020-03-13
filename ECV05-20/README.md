@@ -1,2 +1,3 @@
 
 * En esta solución se pretende poner de relieve la relación de herencia que configuran los distintos tipos de intervinientes en la creación de películas.
+* En ambas soluciones se considera que las relaciones son bidireccionales. No siempre será así. EN este ejercicio parece obvio que se debe poder navegar desde los intervinientes hacia sus películas y por otro lado conocer los intervinientes partiendo de película. En una base de datos o una solución más compleja puede no ser necesario o incluso inconveniente sobrecargar las clases con caminos que no se van a explorar nunca.
