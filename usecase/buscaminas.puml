@@ -1,0 +1,10 @@
+@startuml buscaminas
+left to right direction
+skinparam packageStyle rectangle
+actor jugador
+rectangle buscaminas {
+  jugador -- (iniciar partida)
+  jugador -- (descubrir casilla)
+  jugador -- (marcar casilla)
+}
+@enduml
