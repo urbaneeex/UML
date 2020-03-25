@@ -1,3 +1,4 @@
+
 # Diagramas de casos de uso
 
 En la unidad anterior hemos trabajado el aspecto estático de un sistema por medio del diagrama de clases y hemos visto de manera muy sintetizada su correspondencia en POO con el lenguaje Java.
