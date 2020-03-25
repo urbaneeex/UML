@@ -1,4 +1,5 @@
 # Diagramas de casos de uso
+
 En la unidad anterior hemos trabajado el aspecto estático de un sistema por medio del diagrama de clases y hemos visto de manera muy sintetizada su correspondencia en POO con el lenguaje Java.
 
 Las sesiones siguientes van a tratar sobre los diagramas de comportamiento, donde veremos los aspectos dinámicos del sistema, por ejemplo, cómo se va a interactuar con el sistema. Concretamente la sesión de hoy va dedicada a los diagramas de casos de uso que se utilizan mucho en la fase de análisis.
