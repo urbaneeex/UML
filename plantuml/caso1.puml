@@ -1,4 +1,0 @@
-@startuml
-:actor1: --> (Usecase1)
-:actor2: --> (Usecase2)
-@enduml
