@@ -28,3 +28,7 @@ Aquí tenéis unos ejemplos funcionales sobre cómo incrustar el diagrama en pá
 ### Normativas
 
 ![Normativas](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/carlosgs-iesgoya/UML/master/usecase/normativas.puml)
+
+## Práctica
+
+* [PCV06-10](PCV06-10/PCV06-10.md)
