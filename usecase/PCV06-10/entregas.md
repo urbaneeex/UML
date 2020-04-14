@@ -4,4 +4,4 @@
 |LARRIETA CHIESA, MATIAS | [PCV06-10](https://github.com/MatChiesa/UML-PCV06-10) | 1.0 |
 |DIEZ PAZ, DAVID | [PCV06-10](https://github.com/david10paz/PCV06-10---David-Diez-Paz) | 1.0 |
 |DOTOR PUENTE, ELIA | [PCV06-10](https://github.com/eliadotor/PCV06-10) | 1.0 |
-|CABRERA CÁCERES, SANDRA | [PCV06-10] (https://github.com/Sandra90-16/UML_Sandra) |1.0]
+|CABRERA CÁCERES, SANDRA | [PCV06-10](https://github.com/Sandra90-16/UML_Sandra) |1.0|
