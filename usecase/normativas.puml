@@ -9,7 +9,7 @@ Funcionario <|-- Registrador
 rectangle "Subsistema de funcionarios" {
   Funcionario -- (suscribirse a avisos de normativa)
   Funcionario -- (consultar normativas)
-  (consultar normativas) <-- (ver una normativa)
+  (consultar normativas) <. (ver una normativa) : extend
 }
 
 rectangle "Subsistema de resistradores" {
