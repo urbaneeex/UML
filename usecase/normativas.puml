@@ -19,8 +19,8 @@ rectangle "Subsistema de resistradores" {
   Registrador -- (acceso al sistema)
 }
 
-(consultar normativas) <-- (registrar normativa) : include
-(consultar normativas) <-- (borrar normativa) : include
-(consultar normativas) <-- (reemplazar normativa) : include
+(consultar normativas) <. (registrar normativa) : include
+(consultar normativas) <. (borrar normativa) : include
+(consultar normativas) <. (reemplazar normativa) : include
 
 @enduml
