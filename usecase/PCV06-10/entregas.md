@@ -9,3 +9,4 @@
 |VIÑÉ BARRANCOS, ALONSO| [PCV06-10](https://github.com/AlonsoViBa/PUML)|0.1|
 |CABEZA ROBLEDO, KEVIN | [PCV06-10](https://github.com/KevinCabeza/practicas-PLANTUML)|1.0|
 |CRUZ CARRASCO, ABRAHAM | [PCV06-10](https://github.com/Abraham99cc/Plantuml)|1.0|
+|GARCÍA INSUA, MIGUEL | [PCV06-10](https://github.com/mgi007/PCV06-10/tree/master/src)|1.0|
