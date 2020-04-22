@@ -11,3 +11,4 @@
 |CRUZ CARRASCO, ABRAHAM | [PCV06-10](https://github.com/Abraham99cc/Plantuml)|1.0|
 |GARCÍA INSUA, MIGUEL | [PCV06-10](https://github.com/mgi007/PCV06-10/tree/master/src)|1.0|
 |VEIGA SALAFRANCA, MANUEL| [PCV06-10](https://github.com/Manumk13/PUML)|1.0|
+|SÁNCHEZ BERJANO, SARA | [PCV06-10](https://github.com/sarosilla/CasosUso.git)|1.0|
